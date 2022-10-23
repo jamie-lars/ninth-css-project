@@ -1,0 +1,29 @@
+.first-sec{
+    background-color:aliceblue;
+    padding-top: 10px;
+}
+.cld1{
+    margin-left: 950px;
+    height: 30px;
+}
+.name{
+    font-family: 'Dancing Script', cursive;
+    color: rgb(89, 168, 142);
+    text-align: center;
+    font-size: 80px;
+    
+}
+.cld2{
+    display: block;
+    margin-left: 200px;
+    height: 30px;
+}
+.occup{
+    color: rgb(77, 163, 135);
+    text-align: center;
+    font-size: 25px;
+}
+.mtn{
+    margin-left: 450px;
+    height: 250px;
+}

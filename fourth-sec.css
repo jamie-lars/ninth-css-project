@@ -1,0 +1,38 @@
+.fourth-sec{
+    margin-left: 400px;
+    margin-right: 400px;
+    height: 300px;
+    padding-top: 30px;
+}
+.intouch{
+    color: aqua;
+    text-align: center;
+    font-family: Arial;
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+.lve{
+    text-align: center;
+    margin-bottom: 10px;
+}
+.hit{
+    text-align: center;
+}
+.btn{
+    margin-top: 50px;
+}
+button{
+    background-color: rgb(0, 217, 255);
+    font-size: 15px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid white;
+    margin-left: 400px;
+}
+button:hover{
+    background-color: green;
+}
+button a{
+    color: white;
+    text-decoration: none;
+}

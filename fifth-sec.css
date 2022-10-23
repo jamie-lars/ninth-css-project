@@ -1,0 +1,22 @@
+.fifth-sec{
+    background-color: rgb(87, 155, 201);
+    height: 200px;
+}
+ul{
+    text-align: center;
+    
+}
+ul li{
+    margin-top: 30px;
+    display: inline-block;
+    margin-left: 80px;
+}
+ul li a{
+    color: rgb(44, 44, 119);
+    text-decoration: none;
+}
+.cpyright{
+    text-align: center;
+    color: white;
+    margin-top: 100px;
+}
